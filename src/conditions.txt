@@ -1,0 +1,4 @@
+If a live cell has fewer than two live neighbors, it dies of loneliness.
+If a live cell has more than three live neighbors, it dies of overcrowding.
+If a dead cell has exactly three live neighbors, it becomes alive.
+Otherwise, the cell's state stays the same.
